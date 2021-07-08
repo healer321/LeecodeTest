@@ -40,6 +40,7 @@ public class DemoTest {
         int aDouble = new Random().nextInt();
         System.out.println(aDouble);
         System.out.println("随机数");
+        System.out.println("11122121");
 
     }
 }
