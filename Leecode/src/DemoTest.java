@@ -39,6 +39,7 @@ public class DemoTest {
     public void edTest(){
         int aDouble = new Random().nextInt();
         System.out.println(aDouble);
+        System.out.println("随机数");
 
     }
 }
